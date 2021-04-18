@@ -1,5 +1,6 @@
 
 下载 [https://www.coolapk.com/apk/281057](https://www.coolapk.com/apk/281057)
+## 由于之前代码丢失 导致app卡顿 不稳定， 目前没有修复计划
 
 欢迎star fork pr
 
